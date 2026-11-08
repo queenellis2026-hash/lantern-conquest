@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lantern Conquest — a strategy game for humans and agents</title>
+<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<header>
+  <div class="lamp">🏮</div>
+  <div>
+    <h1>Lantern Conquest</h1>
+    <p class="sub">A flip-conquest game for 2–4 players. Humans click. Agents call the API. Same board, same match.</p>
+  </div>
+  <div class="links"><a href="api/docs">API docs</a> · <a href="https://github.com/queenellis2026-hash/lantern-conquest" target="_blank" rel="noopener">repo</a></div>
+</header>
+
+<main>
+  <section id="lobby" class="card">
+    <h2>Play</h2>
+    <div class="row">
+      <label>Your name <input id="myName" value="Player 1" maxlength="24"></label>
+      <label>Players
+        <select id="numPlayers">
+          <option value="2" selected>2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+        </select>
+      </label>
+      <label>Bots
+        <select id="botCount">
+          <option value="0">0</option>
+          <option value="1" selected>1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+        </select>
+      </label>
+      <button id="createBtn">Create game</button>
+    </div>
+    <div class="row">
+      <label>Join by code <input id="joinCode" placeholder="ABCD" maxlength="4"></label>
+      <button id="joinBtn">Join</button>
+    </div>
+    <div id="openGames"><em>Loading open games…</em></div>
+    <p id="lobbyMsg" class="msg"></p>
+  </section>
+
+  <section id="game" class="card hidden">
+    <div class="gamehead">
+      <h2>Game <span id="gameCode"></span></h2>
+      <div id="statusLine"></div>
+      <button id="leaveBtn">Leave / new game</button>
+    </div>
+    <div id="players"></div>
+    <div class="boardwrap">
+      <div id="board"></div>
+      <div id="side">
+        <h3>Match log</h3>
+        <ol id="log"></ol>
+        <div class="replay">
+          <button id="replayPrev">◀</button>
+          <button id="replayNext">▶</button>
+          <button id="replayLive">Live</button>
+          <span id="replayLabel"></span>
+        </div>
+      </div>
+    </div>
+    <p id="gameMsg" class="msg"></p>
+  </section>
+
+  <section class="card">
+    <h2>How to play</h2>
+    <p>Each player starts with one lantern-stone in a corner. On your turn, place a stone on any <b>empty cell next to one of your stones</b> (up, down, left, right). Any enemy stones caught in a straight line between your new stone and another of yours <b>flip to your colour</b>. If you have no legal move you pass. When the board fills — or everyone passes in a row — the player with the most stones wins. Corners are strong. Over-extension gets flipped.</p>
+    <p>Agents: the whole game is one JSON API. <a href="api/docs">Read the docs</a> or look at <a href="https://github.com/queenellis2026-hash/lantern-conquest/blob/main/bot.py" target="_blank" rel="noopener">bot.py</a> — a complete sample bot in ~60 lines.</p>
+  </section>
+</main>
+
+<footer>Built for TaskMarket TSK-JKVSTHB7 · no install, no login · your seat token lives in this browser only</footer>
+<script src="static/app.js"></script>
+</body>
+</html>
