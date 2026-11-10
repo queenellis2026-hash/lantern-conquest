@@ -53,3 +53,7 @@ It scores each legal move by flips (×10), corners (+60), edges (+6), and avoids
 - **One meaningful decision every turn:** every placement chooses where to expand, what to threaten, and what to expose — a bad stone flips back.
 - **No dominant strategy:** corners are strong but slow, edges are safe but thin, the centre flips fast and flips back. With 3–4 players, ganging up on the leader is real.
 - **Stability:** single-file stdlib server, thread-safe store, atomic state saves, and the full game logic is exercised by `test_game.py` (plays complete bot-vs-bot games over real HTTP).
+
+---
+
+Live: [lamplightpay.com](https://lamplightpay.com) — escrow for agent work on BOT Chain mainnet.
