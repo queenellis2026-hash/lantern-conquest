@@ -1,0 +1,300 @@
+{
+  "league": "v3 vs search opponents",
+  "seeds": "10-13",
+  "prefix_plies": 6,
+  "games": 30,
+  "v3_wins": 14,
+  "draws": 0,
+  "v3_losses": 16,
+  "v3_agg_margin": -6,
+  "seconds": 293.9,
+  "matchups": [
+    {
+      "opponent": "v2-default",
+      "opponent_params": null,
+      "games": 10,
+      "v3_wins": 5,
+      "draws": 0,
+      "v3_losses": 5,
+      "v3_agg_margin": 16,
+      "seconds": 92.1,
+      "detail": [
+        {
+          "seat": 0,
+          "outcome": "W",
+          "mine": 34,
+          "theirs": 15,
+          "margin": 19,
+          "tag": "canonical"
+        },
+        {
+          "seat": 1,
+          "outcome": "W",
+          "mine": 25,
+          "theirs": 24,
+          "margin": 1,
+          "tag": "canonical"
+        },
+        {
+          "seat": 0,
+          "outcome": "W",
+          "mine": 30,
+          "theirs": 19,
+          "margin": 11,
+          "tag": "seed10"
+        },
+        {
+          "seat": 1,
+          "outcome": "W",
+          "mine": 29,
+          "theirs": 20,
+          "margin": 9,
+          "tag": "seed10"
+        },
+        {
+          "seat": 0,
+          "outcome": "W",
+          "mine": 29,
+          "theirs": 20,
+          "margin": 9,
+          "tag": "seed11"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 23,
+          "theirs": 26,
+          "margin": -3,
+          "tag": "seed11"
+        },
+        {
+          "seat": 0,
+          "outcome": "L",
+          "mine": 17,
+          "theirs": 32,
+          "margin": -15,
+          "tag": "seed12"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 21,
+          "theirs": 28,
+          "margin": -7,
+          "tag": "seed12"
+        },
+        {
+          "seat": 0,
+          "outcome": "L",
+          "mine": 22,
+          "theirs": 27,
+          "margin": -5,
+          "tag": "seed13"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 23,
+          "theirs": 26,
+          "margin": -3,
+          "tag": "seed13"
+        }
+      ]
+    },
+    {
+      "opponent": "v2-deep-mob10",
+      "opponent_params": {
+        "depth_far": 5,
+        "depth_mid": 6,
+        "depth_near": 7,
+        "solve_at": 14,
+        "w_mob": 10
+      },
+      "games": 10,
+      "v3_wins": 4,
+      "draws": 0,
+      "v3_losses": 6,
+      "v3_agg_margin": -6,
+      "seconds": 130.0,
+      "detail": [
+        {
+          "seat": 0,
+          "outcome": "L",
+          "mine": 23,
+          "theirs": 26,
+          "margin": -3,
+          "tag": "canonical"
+        },
+        {
+          "seat": 1,
+          "outcome": "W",
+          "mine": 26,
+          "theirs": 23,
+          "margin": 3,
+          "tag": "canonical"
+        },
+        {
+          "seat": 0,
+          "outcome": "W",
+          "mine": 26,
+          "theirs": 23,
+          "margin": 3,
+          "tag": "seed10"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 23,
+          "theirs": 26,
+          "margin": -3,
+          "tag": "seed10"
+        },
+        {
+          "seat": 0,
+          "outcome": "W",
+          "mine": 27,
+          "theirs": 22,
+          "margin": 5,
+          "tag": "seed11"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 22,
+          "theirs": 27,
+          "margin": -5,
+          "tag": "seed11"
+        },
+        {
+          "seat": 0,
+          "outcome": "L",
+          "mine": 24,
+          "theirs": 25,
+          "margin": -1,
+          "tag": "seed12"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 22,
+          "theirs": 27,
+          "margin": -5,
+          "tag": "seed12"
+        },
+        {
+          "seat": 0,
+          "outcome": "L",
+          "mine": 21,
+          "theirs": 28,
+          "margin": -7,
+          "tag": "seed13"
+        },
+        {
+          "seat": 1,
+          "outcome": "W",
+          "mine": 28,
+          "theirs": 21,
+          "margin": 7,
+          "tag": "seed13"
+        }
+      ]
+    },
+    {
+      "opponent": "v3-shallow",
+      "opponent_params": {
+        "depth_far": 3,
+        "depth_mid": 4,
+        "depth_near": 5,
+        "solve_at": 10
+      },
+      "games": 10,
+      "v3_wins": 5,
+      "draws": 0,
+      "v3_losses": 5,
+      "v3_agg_margin": -16,
+      "seconds": 71.7,
+      "detail": [
+        {
+          "seat": 0,
+          "outcome": "W",
+          "mine": 27,
+          "theirs": 22,
+          "margin": 5,
+          "tag": "canonical"
+        },
+        {
+          "seat": 1,
+          "outcome": "W",
+          "mine": 26,
+          "theirs": 23,
+          "margin": 3,
+          "tag": "canonical"
+        },
+        {
+          "seat": 0,
+          "outcome": "W",
+          "mine": 29,
+          "theirs": 20,
+          "margin": 9,
+          "tag": "seed10"
+        },
+        {
+          "seat": 1,
+          "outcome": "W",
+          "mine": 30,
+          "theirs": 19,
+          "margin": 11,
+          "tag": "seed10"
+        },
+        {
+          "seat": 0,
+          "outcome": "W",
+          "mine": 28,
+          "theirs": 21,
+          "margin": 7,
+          "tag": "seed11"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 20,
+          "theirs": 29,
+          "margin": -9,
+          "tag": "seed11"
+        },
+        {
+          "seat": 0,
+          "outcome": "L",
+          "mine": 18,
+          "theirs": 31,
+          "margin": -13,
+          "tag": "seed12"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 21,
+          "theirs": 28,
+          "margin": -7,
+          "tag": "seed12"
+        },
+        {
+          "seat": 0,
+          "outcome": "L",
+          "mine": 19,
+          "theirs": 30,
+          "margin": -11,
+          "tag": "seed13"
+        },
+        {
+          "seat": 1,
+          "outcome": "L",
+          "mine": 19,
+          "theirs": 30,
+          "margin": -11,
+          "tag": "seed13"
+        }
+      ]
+    }
+  ]
+}

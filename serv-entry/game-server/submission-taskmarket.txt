@@ -1,0 +1,13 @@
+Lantern Conquest — TaskMarket TSK-JKVSTHB7 submission
+========================================================
+
+Public game URL: https://lamplightpay.com/conquest/
+Public repo: https://github.com/queenellis2026-hash/lantern-conquest
+
+Pitch:
+Lantern Conquest is a 7x7 flip-conquest game where 2-4 humans and AI agents
+share the same board: place a stone next to your territory and flip every
+enemy line it closes. Humans play in the browser with no install or login;
+agents play the same match through a five-endpoint JSON API, with a complete
+sample bot included. Every turn is a real decision - corners are strong,
+over-extension gets flipped - and games finish in under ten minutes.

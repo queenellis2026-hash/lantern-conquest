@@ -1,0 +1,528 @@
+{
+  "id": "g-kf983gi2",
+  "code": "LTEC",
+  "log": [
+    {
+      "turn": 1,
+      "player": 0,
+      "row": 0,
+      "col": 1,
+      "flipped": [],
+      "scores": [
+        2,
+        1
+      ]
+    },
+    {
+      "turn": 2,
+      "player": 1,
+      "row": 5,
+      "col": 6,
+      "flipped": [],
+      "scores": [
+        2,
+        2
+      ]
+    },
+    {
+      "turn": 3,
+      "player": 0,
+      "row": 0,
+      "col": 2,
+      "flipped": [],
+      "scores": [
+        3,
+        2
+      ]
+    },
+    {
+      "turn": 4,
+      "player": 1,
+      "row": 5,
+      "col": 5,
+      "flipped": [],
+      "scores": [
+        3,
+        3
+      ]
+    },
+    {
+      "turn": 5,
+      "player": 0,
+      "row": 0,
+      "col": 3,
+      "flipped": [],
+      "scores": [
+        4,
+        3
+      ]
+    },
+    {
+      "turn": 6,
+      "player": 1,
+      "row": 5,
+      "col": 4,
+      "flipped": [],
+      "scores": [
+        4,
+        4
+      ]
+    },
+    {
+      "turn": 7,
+      "player": 0,
+      "row": 0,
+      "col": 4,
+      "flipped": [],
+      "scores": [
+        5,
+        4
+      ]
+    },
+    {
+      "turn": 8,
+      "player": 1,
+      "row": 5,
+      "col": 3,
+      "flipped": [],
+      "scores": [
+        5,
+        5
+      ]
+    },
+    {
+      "turn": 9,
+      "player": 0,
+      "row": 1,
+      "col": 0,
+      "flipped": [],
+      "scores": [
+        6,
+        5
+      ]
+    },
+    {
+      "turn": 10,
+      "player": 1,
+      "row": 5,
+      "col": 2,
+      "flipped": [],
+      "scores": [
+        6,
+        6
+      ]
+    },
+    {
+      "turn": 11,
+      "player": 0,
+      "row": 2,
+      "col": 0,
+      "flipped": [],
+      "scores": [
+        7,
+        6
+      ]
+    },
+    {
+      "turn": 12,
+      "player": 1,
+      "row": 5,
+      "col": 1,
+      "flipped": [],
+      "scores": [
+        7,
+        7
+      ]
+    },
+    {
+      "turn": 13,
+      "player": 0,
+      "row": 3,
+      "col": 0,
+      "flipped": [],
+      "scores": [
+        8,
+        7
+      ]
+    },
+    {
+      "turn": 14,
+      "player": 1,
+      "row": 4,
+      "col": 6,
+      "flipped": [],
+      "scores": [
+        8,
+        8
+      ]
+    },
+    {
+      "turn": 15,
+      "player": 0,
+      "row": 4,
+      "col": 0,
+      "flipped": [],
+      "scores": [
+        9,
+        8
+      ]
+    },
+    {
+      "turn": 16,
+      "player": 1,
+      "row": 5,
+      "col": 0,
+      "flipped": [],
+      "scores": [
+        9,
+        9
+      ]
+    },
+    {
+      "turn": 17,
+      "player": 0,
+      "row": 1,
+      "col": 1,
+      "flipped": [],
+      "scores": [
+        10,
+        9
+      ]
+    },
+    {
+      "turn": 18,
+      "player": 1,
+      "row": 4,
+      "col": 2,
+      "flipped": [],
+      "scores": [
+        10,
+        10
+      ]
+    },
+    {
+      "turn": 19,
+      "player": 0,
+      "row": 1,
+      "col": 2,
+      "flipped": [],
+      "scores": [
+        11,
+        10
+      ]
+    },
+    {
+      "turn": 20,
+      "player": 1,
+      "row": 3,
+      "col": 2,
+      "flipped": [],
+      "scores": [
+        11,
+        11
+      ]
+    },
+    {
+      "turn": 21,
+      "player": 0,
+      "row": 1,
+      "col": 3,
+      "flipped": [],
+      "scores": [
+        12,
+        11
+      ]
+    },
+    {
+      "turn": 22,
+      "player": 1,
+      "row": 3,
+      "col": 6,
+      "flipped": [],
+      "scores": [
+        12,
+        12
+      ]
+    },
+    {
+      "turn": 23,
+      "player": 0,
+      "row": 1,
+      "col": 4,
+      "flipped": [],
+      "scores": [
+        13,
+        12
+      ]
+    },
+    {
+      "turn": 24,
+      "player": 1,
+      "row": 2,
+      "col": 6,
+      "flipped": [],
+      "scores": [
+        13,
+        13
+      ]
+    },
+    {
+      "turn": 25,
+      "player": 0,
+      "row": 1,
+      "col": 5,
+      "flipped": [],
+      "scores": [
+        14,
+        13
+      ]
+    },
+    {
+      "turn": 26,
+      "player": 1,
+      "row": 1,
+      "col": 6,
+      "flipped": [],
+      "scores": [
+        14,
+        14
+      ]
+    },
+    {
+      "turn": 27,
+      "player": 0,
+      "row": 2,
+      "col": 1,
+      "flipped": [],
+      "scores": [
+        15,
+        14
+      ]
+    },
+    {
+      "turn": 28,
+      "player": 1,
+      "row": 0,
+      "col": 6,
+      "flipped": [],
+      "scores": [
+        15,
+        15
+      ]
+    },
+    {
+      "turn": 29,
+      "player": 0,
+      "row": 0,
+      "col": 5,
+      "flipped": [],
+      "scores": [
+        16,
+        15
+      ]
+    },
+    {
+      "turn": 30,
+      "player": 1,
+      "row": 2,
+      "col": 5,
+      "flipped": [],
+      "scores": [
+        16,
+        16
+      ]
+    },
+    {
+      "turn": 31,
+      "player": 0,
+      "row": 2,
+      "col": 2,
+      "flipped": [],
+      "scores": [
+        17,
+        16
+      ]
+    },
+    {
+      "turn": 32,
+      "player": 1,
+      "row": 2,
+      "col": 4,
+      "flipped": [
+        [
+          1,
+          5
+        ]
+      ],
+      "scores": [
+        16,
+        18
+      ]
+    },
+    {
+      "turn": 33,
+      "player": 0,
+      "row": 2,
+      "col": 3,
+      "flipped": [],
+      "scores": [
+        17,
+        18
+      ]
+    },
+    {
+      "turn": 34,
+      "player": 1,
+      "row": 4,
+      "col": 1,
+      "flipped": [],
+      "scores": [
+        17,
+        19
+      ]
+    },
+    {
+      "turn": 35,
+      "player": 0,
+      "row": 3,
+      "col": 1,
+      "flipped": [],
+      "scores": [
+        18,
+        19
+      ]
+    },
+    {
+      "turn": 36,
+      "player": 1,
+      "row": 3,
+      "col": 3,
+      "flipped": [],
+      "scores": [
+        18,
+        20
+      ]
+    },
+    {
+      "turn": 37,
+      "player": 1,
+      "row": 3,
+      "col": 4,
+      "flipped": [],
+      "scores": [
+        18,
+        21
+      ]
+    },
+    {
+      "turn": 38,
+      "player": 1,
+      "row": 3,
+      "col": 5,
+      "flipped": [],
+      "scores": [
+        18,
+        22
+      ]
+    },
+    {
+      "turn": 39,
+      "player": 1,
+      "row": 4,
+      "col": 3,
+      "flipped": [],
+      "scores": [
+        18,
+        23
+      ]
+    },
+    {
+      "turn": 40,
+      "player": 1,
+      "row": 4,
+      "col": 4,
+      "flipped": [],
+      "scores": [
+        18,
+        24
+      ]
+    },
+    {
+      "turn": 41,
+      "player": 1,
+      "row": 4,
+      "col": 5,
+      "flipped": [],
+      "scores": [
+        18,
+        25
+      ]
+    },
+    {
+      "turn": 42,
+      "player": 1,
+      "row": 6,
+      "col": 0,
+      "flipped": [],
+      "scores": [
+        18,
+        26
+      ]
+    },
+    {
+      "turn": 43,
+      "player": 1,
+      "row": 6,
+      "col": 1,
+      "flipped": [],
+      "scores": [
+        18,
+        27
+      ]
+    },
+    {
+      "turn": 44,
+      "player": 1,
+      "row": 6,
+      "col": 2,
+      "flipped": [],
+      "scores": [
+        18,
+        28
+      ]
+    },
+    {
+      "turn": 45,
+      "player": 1,
+      "row": 6,
+      "col": 3,
+      "flipped": [],
+      "scores": [
+        18,
+        29
+      ]
+    },
+    {
+      "turn": 46,
+      "player": 1,
+      "row": 6,
+      "col": 4,
+      "flipped": [],
+      "scores": [
+        18,
+        30
+      ]
+    },
+    {
+      "turn": 47,
+      "player": 1,
+      "row": 6,
+      "col": 5,
+      "flipped": [],
+      "scores": [
+        18,
+        31
+      ]
+    }
+  ]
+}

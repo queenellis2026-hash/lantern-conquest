@@ -1,0 +1,76 @@
+{
+  "brain": "v3",
+  "params": null,
+  "games": 8,
+  "wins": 8,
+  "draws": 0,
+  "losses": 0,
+  "agg_margin": 102,
+  "seconds": 28.9,
+  "detail": [
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 32,
+      "theirs": 17,
+      "margin": 15,
+      "tag": "seed20"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 28,
+      "theirs": 21,
+      "margin": 7,
+      "tag": "seed20"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 36,
+      "theirs": 13,
+      "margin": 23,
+      "tag": "seed21"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 28,
+      "theirs": 21,
+      "margin": 7,
+      "tag": "seed21"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 28,
+      "theirs": 21,
+      "margin": 7,
+      "tag": "seed22"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 33,
+      "theirs": 16,
+      "margin": 17,
+      "tag": "seed22"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 30,
+      "theirs": 19,
+      "margin": 11,
+      "tag": "seed23"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 32,
+      "theirs": 17,
+      "margin": 15,
+      "tag": "seed23"
+    }
+  ]
+}

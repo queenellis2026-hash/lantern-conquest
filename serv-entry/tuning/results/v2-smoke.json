@@ -1,0 +1,44 @@
+{
+  "brain": "v2",
+  "params": null,
+  "games": 4,
+  "wins": 4,
+  "draws": 0,
+  "losses": 0,
+  "agg_margin": 14,
+  "seconds": 3.5,
+  "detail": [
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 25,
+      "theirs": 24,
+      "margin": 1,
+      "tag": "canonical"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 25,
+      "theirs": 24,
+      "margin": 1,
+      "tag": "canonical"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 27,
+      "theirs": 22,
+      "margin": 5,
+      "tag": "seed0"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 28,
+      "theirs": 21,
+      "margin": 7,
+      "tag": "seed0"
+    }
+  ]
+}

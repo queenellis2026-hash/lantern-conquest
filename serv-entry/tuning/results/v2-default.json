@@ -1,0 +1,156 @@
+{
+  "brain": "v2",
+  "params": null,
+  "games": 18,
+  "wins": 18,
+  "draws": 0,
+  "losses": 0,
+  "agg_margin": 158,
+  "seconds": 20.6,
+  "detail": [
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 25,
+      "theirs": 24,
+      "margin": 1,
+      "tag": "canonical"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 25,
+      "theirs": 24,
+      "margin": 1,
+      "tag": "canonical"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 27,
+      "theirs": 22,
+      "margin": 5,
+      "tag": "seed0"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 28,
+      "theirs": 21,
+      "margin": 7,
+      "tag": "seed0"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 34,
+      "theirs": 15,
+      "margin": 19,
+      "tag": "seed1"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 27,
+      "theirs": 22,
+      "margin": 5,
+      "tag": "seed1"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 32,
+      "theirs": 17,
+      "margin": 15,
+      "tag": "seed2"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 25,
+      "theirs": 24,
+      "margin": 1,
+      "tag": "seed2"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 34,
+      "theirs": 15,
+      "margin": 19,
+      "tag": "seed3"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 29,
+      "theirs": 20,
+      "margin": 9,
+      "tag": "seed3"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 26,
+      "theirs": 23,
+      "margin": 3,
+      "tag": "seed4"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 29,
+      "theirs": 20,
+      "margin": 9,
+      "tag": "seed4"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 27,
+      "theirs": 22,
+      "margin": 5,
+      "tag": "seed5"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 29,
+      "theirs": 20,
+      "margin": 9,
+      "tag": "seed5"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 32,
+      "theirs": 17,
+      "margin": 15,
+      "tag": "seed6"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 30,
+      "theirs": 19,
+      "margin": 11,
+      "tag": "seed6"
+    },
+    {
+      "seat": 0,
+      "outcome": "W",
+      "mine": 34,
+      "theirs": 15,
+      "margin": 19,
+      "tag": "seed7"
+    },
+    {
+      "seat": 1,
+      "outcome": "W",
+      "mine": 27,
+      "theirs": 22,
+      "margin": 5,
+      "tag": "seed7"
+    }
+  ]
+}
